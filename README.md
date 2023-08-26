@@ -5,7 +5,7 @@
 <br/>
 <bold>
 <ul>
-  <li>Table of Contents
+  <li><h3></h3 >Table of Contents</h3></li>
   <ul>
     <li>Introduction</li>
     <li>Nav Features
@@ -14,8 +14,6 @@
       <li>Docs</li>
       <li>Visit</li>
     </ul>
-      
-    </li>
   </ul>
     
   </li>
