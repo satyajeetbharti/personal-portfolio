@@ -1,0 +1,113 @@
+body{
+    background-image:url(https://images.pexels.com/photos/10770234/pexels-photo-10770234.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+}
+
+/* top & navigation bar */
+#parent{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* background-color: antiquewhite; */
+    
+    
+}
+.logo{
+    width:100px;
+    height: 100px;
+    /* border: 1px solid rgb(0, 89, 255); */
+    border-radius: 50%;
+}
+/* nav{
+    width: 100px;
+    height: 100px;
+    display: flex;
+
+} */
+h1{
+    font-size: 35px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(202, 92, 92);
+}
+.last-title{
+    color: rgb(62, 73, 233);
+}
+
+li{
+    border: 1px solid rgba(4, 10, 2, 0.897);
+    width: 60px;
+    height: auto;
+    text-align: center;
+    background-color: rgb(229, 211, 247);
+}
+
+li:hover{
+background-color: tomato;
+}
+
+
+#parent-2{
+    /* width:70%px; */
+    height: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(187, 187, 187);
+    padding-left: 40px;
+}
+#parent-2:hover{
+    background-color: rgb(197, 201, 200);
+}
+#parent-2>h2{
+    color: rgb(133, 133, 185); 
+    padding-top: 80px;
+    padding-left: 80px;
+}
+#parent-2>h2>span{
+    color: rgb(64, 243, 189);
+}
+.parent-2-para{
+    color: rgb(133, 133, 185);
+    font-size: 18px;
+    font-weight:bold ;
+    padding-left: 80px;
+}
+.span-1{
+    color: rgb(231, 111, 55);
+}
+.span-2{
+    color: rgb(209, 67, 67);
+}
+   
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    
+    
+  }
+  .btn:hover{
+    background-color: rgb(247, 68, 13);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    
+  }
+  .vid{
+    text-align: center;
+    /* padding: 20px; */
+    text-align: center;
+   
+  }
+ 
+
+
+
+
